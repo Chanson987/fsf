@@ -2,14 +2,14 @@
 
 main() {
     int i=0;
-    printf("叫块计祘Α盢穦滦计 \n");
+    printf("璜嬭几鍏ユ暩瀛楋紝绋嬪紡灏囨渻鍥炶浣犵浉鍚岀殑鏁稿瓧 \n");
     scanf("%d", &i);
     printf("%d", i);
 int main() {
 
     int input;
 
-    printf("–块计祘Α穦计\n");
+    printf("姣忚几鍏ヤ竴鍊嬫暩瀛楋紝绋嬪紡鏈冨啀鍗板嚭鐩稿悓鐨勬暩瀛椼�俓n");
     //fill some condition into the following while loop
     //only ONE line code is you need
     //please refer page 4 of homework request4
