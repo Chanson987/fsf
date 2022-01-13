@@ -2,12 +2,12 @@
 
 int main() {
 
-    printf("叫块俱计");
+    printf("璜嬭几鍏ヤ竴鍊嬫暣鏁革赴");
 
     int i;
 
     scanf("%d", &i);
 
     //line 12 is incomplete, refer to page 4 of Operation slides to achieve the requirement.
-    printf("硂俱计计琌%d\n", i%10);
+    printf("閫欏�嬫暣鏁哥殑鍊嬩綅鏁告槸%d\n", i%10);
 }
